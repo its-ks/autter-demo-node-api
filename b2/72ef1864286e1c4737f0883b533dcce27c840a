@@ -1,0 +1,16 @@
+src/app.ts
+  h_976ffe645b304d 3-4,19-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "autter_version": "3.9.3",
+  "base_commit_sha": "b272ef1864286e1c4737f0883b533dcce27c840a",
+  "branch": "fix-role-trust",
+  "prompts": {},
+  "humans": {
+    "h_976ffe645b304d": {
+      "author": "Kaushalendra Singh <its.ks6342@gmail.com>"
+    }
+  },
+  "integrity": {"v":1,"commit":"b272ef1864286e1c4737f0883b533dcce27c840a","tree":"1721406a0b6a3e54dd0fb60464ddd1b0f9086f86","files":{"src/app.ts":"de6161bfb6bf05278c1a8852f2d6227598d0c7aa"},"digest":"f59a6fdfa26a3af7743418653a17c6c699a8504ace094f1f211a8f9c1b89a3b1"}
+}
